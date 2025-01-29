@@ -6,3 +6,5 @@
 💬 Ask me about Vue.js, TypeScript, and front-end best practices.<br/>
 📫 How to reach me: [Telegram](https://t.me/S1eymom)<br/>
 ⚡ Fun fact: I love coffee, coding, and music.<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreymomsokny&show_icons=true&theme=radical)
