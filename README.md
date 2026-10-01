@@ -1,11 +1,11 @@
 ## Hi there 👋  
-🔭 I’m currently working as a Front-End Developer.<br/>
-💻 I specialize in front-end development using JavaScript, Vue.js, and TypeScript.<br/>  
-🌱 I’m continuously learning and exploring new technologies to enhance user experiences. <br/> 
-👯 I’m looking to collaborate on innovative fintech and web development projects.<br/>
-💬 Ask me about Vue.js, TypeScript, and front-end best practices.<br/>
-📫 How to reach me: [Telegram](https://t.me/S1eymom)<br/>
-⚡ Fun fact: I love coffee, coding, and music.<br/>
+🔭 I’m currently working as a **Full-stack Developer**.  
+💻 I specialize in frontend and backend development using **Vue.js**, **TypeScript**, **JavaScript**, **Spring Boot**, and **PostgreSQL**.  
+🌱 I’m continuously learning and exploring new technologies to enhance user experiences.  
+👯 I’m looking to collaborate on innovative fintech and web development projects.
+💬 Ask me about Vue.js, Spring Boot, TypeScript, and full-stack best practices.<br/>
+📫 How to reach me: [Telegram](https://t.me/Sreymom_CTCM)  
+⚡ Fun fact: I love coffee, coding, and music.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo-sreymom-8b669121a/)
