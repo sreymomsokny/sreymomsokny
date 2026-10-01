@@ -2,7 +2,7 @@
 🔭 I’m currently working as a **Full-stack Developer**.  
 💻 I specialize in frontend and backend development using **Vue.js**, **TypeScript**, **JavaScript**, **Spring Boot**, and **PostgreSQL**.  
 🌱 I’m continuously learning and exploring new technologies to enhance user experiences.  
-👯 I’m looking to collaborate on innovative fintech and web development projects.
+👯 I’m looking to collaborate on innovative fintech and web development projects.<br/>
 💬 Ask me about Vue.js, Spring Boot, TypeScript, and full-stack best practices.<br/>
 📫 How to reach me: [Telegram](https://t.me/Sreymom_CTCM)  
 ⚡ Fun fact: I love coffee, coding, and music.
